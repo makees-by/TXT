@@ -1,0 +1,5 @@
+fav_move - inceptiion
+fav_series - Street of Broken Lanterns
+fav_food - fried potatoes" ,
+fav_season - summer" ,
+country_you_would_like_to_visit - USA

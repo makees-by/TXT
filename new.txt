@@ -1,4 +1,4 @@
-Гаврилов Максим Евгеньевич
-36 лет
-Домашних животных нет
-Желаемая з\пот 1000$
+full_name - Haurilov Maksim Evgenievich
+age - 36 
+num_of_pets - 0 
+desired_salary - 1500$
